@@ -1,0 +1,1 @@
+function num = digital_counter(filename)
